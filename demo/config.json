@@ -1,0 +1,7 @@
+{
+  "imageDir": "./img",
+  "outDir": "./out",
+  "width": 2500,
+  "height": 1000,
+  "backgroundColor": "#7dd669"
+}
