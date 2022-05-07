@@ -38,7 +38,7 @@ function composite(src: string, dest: string, background: string, width: number,
     },
   })
     .composite([{ input: src }])
-    .png()
+    .png({ palette: true })
     .toFile(dest);
 }
 
